@@ -8,8 +8,6 @@
 
 <p>I am a cross-disciplinary developer from Taiwan, specializing in building high-performance web applications and edge AI hardware. My engineering focus lies at the intersection of data processing, extreme weather technology, and ESG (Environmental, Social, and Governance) solutions.</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=zhuang768&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophy" />
-
 </div>
 
 ---
@@ -52,14 +50,7 @@
 
 ---
 
-### GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhuang768&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuang768&layout=compact&theme=radical&hide_border=true" height="150" alt="top langs" />
-</div>
-
-<br>
+### Contribution Activity
 
 <div align="center">
   <picture>
