@@ -24,6 +24,31 @@
 
 ### Engineering Projects & Hackathon Implementations
 
+### Recent Projects
+
+I am currently studying International Trade at National Hsinchu Senior Commercial Vocational School in Taiwan. Alongside my studies, I learn software development and embedded systems through hands-on projects.
+
+| Project | Focus | Current status |
+| --- | --- | --- |
+| [QRAlarm](https://github.com/zhuang768/QRAlarm) | iOS alarms, QR-code wake-up missions, and RevenueCat Test Store integration | Competition prototype; not released on the App Store |
+| [Python Webcam Vision Demo](https://github.com/zhuang768/prof-lee-demo) | YOLOv8n object detection, MediaPipe pose analysis, and a live analytics dashboard | Presentation prototype prepared to show a professor; not integrated with the robot |
+| [ESP32 Self-Balancing Robot](https://github.com/zhuang768/esp32-self-balancing-robot) | MPU6050 attitude estimation, complementary filtering, PID, and motor control | In development; stable self-balancing and camera integration still require hardware validation |
+| [ForeSure Global](https://github.com/zhuang768/ForeSure-Global) | AI-assisted catastrophe and climate-risk analysis | Collaborative research/competition prototype; not a production financial service |
+| [Data Week Dataset Explorer](https://github.com/zhuang768/ghw-data-copilot-app) | Local CSV parsing, search, sorting, and data summaries in the browser | MLH Global Hack Week project; initial implementation generated with GitHub Copilot CLI |
+
+#### Learning & Certificates
+
+- [Blue Ocean Student Entrepreneurs Mini-Course](https://credsverse.com/credentials/245f69cf-51c4-45e1-ac64-137a760db77f?preview=1) — course completion certificate, October 2026; not a competition award.
+- [LinkedIn](https://www.linkedin.com/in/tzu-chin-chuang/) — project descriptions and learning background.
+
+#### Scope & Validation Notes
+
+These are learning and research projects. Compiling a program does not establish that the complete hardware system works. Robot behavior, camera compatibility, and control parameters require real-world testing. The respiration-monitor project below should be understood as an experimental sensing prototype, not a clinically validated sleep-apnea diagnostic device. Quantitative impact claims in older project summaries require supporting measurements before being treated as validated results.
+
+---
+
+### Earlier Projects
+
 #### [DisasterOS: High-Performance Extreme Weather Dashboard](https://disaster-os.pages.dev)
 * **Context**: Developed during the Runspace Innovation Challenge hosted by the Taiwan Space Agency (TASA).
 * **Architecture**: React, Node.js, HTML5 Canvas.
