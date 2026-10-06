@@ -8,6 +8,8 @@
 
 <p>I am a cross-disciplinary developer from Taiwan, specializing in building high-performance web applications and edge AI hardware. My engineering focus lies at the intersection of data processing, extreme weather technology, and ESG (Environmental, Social, and Governance) solutions.</p>
 
+<img src="https://trophy.ryglcloud.net/?username=zhuang768&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub profile trophies" />
+
 </div>
 
 ---
@@ -75,6 +77,19 @@ These are learning and research projects. Compiling a program does not establish
 
 ---
 
+### GitHub Statistics
 
 <div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=zhuang768&show_icons=true&theme=radical&hide_border=true" height="150" alt="Public GitHub statistics" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zhuang768&layout=compact&theme=radical&hide_border=true" height="150" alt="Languages in public repositories" />
+</div>
+
+### Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhuang768/zhuang768/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhuang768/zhuang768/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/zhuang768/zhuang768/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
